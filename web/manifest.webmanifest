@@ -1,0 +1,9 @@
+{
+  "name": "QuickFetch Delivery Bot",
+  "short_name": "QuickFetch",
+  "description": "Fastest same-day delivery & lowest landed price finder for laptop and phone.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a"
+}
